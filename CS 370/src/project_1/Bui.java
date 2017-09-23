@@ -1,5 +1,15 @@
 package project_1;
 
+/**
+ * 
+ * Simple Regex recognizer:
+ * Write a simple regex recognizer in Java that recognizes single characters, single characters with +, *, ?, and concatenation of the above. 
+ * It should be able to recognize for a, b in {character that are not ‘+’, ‘*’, ‘?’ or ‘\0}
+ * 
+ */
+
+
+
 import java.util.Scanner;
 
 public class Bui {
